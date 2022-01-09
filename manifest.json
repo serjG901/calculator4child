@@ -18,7 +18,7 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "https://serjg901.github.io/calculator4child/",
+  "start_url": ".",
   "display": "standalone",
   "theme_color": "#141414",
   "background_color": "#141414"
